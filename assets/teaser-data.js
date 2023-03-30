@@ -7,7 +7,7 @@ file_paths = {
     "car-moving-cartoon": "./assets/results/tuneavideo/car-turn/car-cartoon.gif",
     "car-moving-porsche": "./assets/results/tuneavideo/car-turn/porsche-beach.gif",
 
-    "basketball-trump": "./assets/results/tuneavideo/man-basketball/trump.gif",
+    "basketball-bond": "./assets/results/tuneavideo/man-basketball/bond.gif",
     "basketball-lego": "./assets/results/tuneavideo/man-basketball/lego.gif",
     "basketball-astronaut": "./assets/results/tuneavideo/man-basketball/astronaut.gif",
 
